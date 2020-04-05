@@ -5,7 +5,9 @@ git <command>
 config
 init
 status
-add
-commit
+add <file, files, dir, dirs>
+add -A
+commit -m '<text message>'
 checkout
-checkout -b
+checkout -b <branch_name>
+checkout <branch_name>
