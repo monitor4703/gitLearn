@@ -13,4 +13,9 @@ checkout
 checkout -b <branch_name>
 checkout <branch_name>
 diff
+push origin master
+fetch
+pull origin master
 
+
+Ctrl+~
