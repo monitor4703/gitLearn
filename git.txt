@@ -1,0 +1,13 @@
+git commands:
+
+git <command>
+
+config
+init
+status
+add <file, files, dir, dirs>
+add -A
+commit -m '<text message>'
+checkout
+checkout -b <branch_name>
+checkout <branch_name>
