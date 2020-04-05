@@ -10,5 +10,6 @@ class TestStringMethods(unittest.TestCase):
         self.assertTrue('FOO'.isupper())
         self.assertFalse('Foo'.isupper())
 
+
 if __name__ == '__main__':
     unittest.main()
