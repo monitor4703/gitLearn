@@ -7,7 +7,8 @@ init
 status
 add <file, files, dir, dirs>
 add -A
-commit -m '<text message>'
+commit -m "<text message>"
+commit -a -n "..."
 checkout
 checkout -b <branch_name>
 checkout <branch_name>
