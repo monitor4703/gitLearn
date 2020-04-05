@@ -1,0 +1,11 @@
+git commands:
+
+git <command>
+
+config
+init
+status
+add
+commit
+checkout
+checkout -b
