@@ -8,7 +8,9 @@ status
 add <file, files, dir, dirs>
 add -A
 commit -m "<text message>"
-commit -a -n "..."
+commit -a -m "..."
 checkout
 checkout -b <branch_name>
 checkout <branch_name>
+diff
+
